@@ -15,8 +15,6 @@ describe('abn', ()=>{
 
     /* ==== Test Created with Cypress Studio ==== */
     it('test1', function() {
-        /* ==== Generated with Cypress Studio ==== */
-        cy.get('.subhome-intro-buttons > .btn').click();
-        /* ==== End Cypress Studio ==== */
+    
     });
 })
